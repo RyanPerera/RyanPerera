@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanPerera
-- 👀 I’m interested in front-end software development and illustration work
-- 💞️ I’m looking to collaborate on React-Native based mobile applications
+- 👀 I’m interested in full-stack development
+- 💞️ I’m looking to collaborate on ReactJS based web applications
 - 📫 How to reach me: ryan.y.perera@gmail.com
 
 <!---
